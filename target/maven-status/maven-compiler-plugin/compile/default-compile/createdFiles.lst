@@ -1,0 +1,3 @@
+com\example\entity\User.class
+com\example\kafka\UserConsumer.class
+com\example\controller\UserController.class
